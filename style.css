@@ -64,6 +64,7 @@ img {
 @media screen and (max-width: 1270px) {
   .sport-1, .sport-2, .sport-3, .sport-4 {
     max-width: 560px;
+    height: auto;
   }
 
   p {
